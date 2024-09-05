@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class Task {
     static List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7));
     static Set<Integer> nums2 = new HashSet<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7));
